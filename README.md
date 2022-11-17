@@ -1,4 +1,4 @@
-<a rel="me" href="https://genomic.social/@miltondp"></a>
+Welcome to my Github page. This is my <a rel="me" href="https://genomic.social/@miltondp">Mastodon</a> account.
 
 <!--
 **miltondp/miltondp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
